@@ -1,0 +1,15 @@
+0,1,5, >=2 wheels and >=1 frame detected?
+1,2,5, Distances within range?
+2,3,4, Satisfies similarity constraint?
+3,-,-, Bicycle
+4,-,-, Not Bicycle
+5,6,7, >=1 wheel and >=1 frame deteced?
+6,2,7, Distances within range?
+7,8,13, >=2 wheels detected?
+8,9,12, Distances within range?
+9,10,11, threshold>= lowerlimit?
+10,-,-, yolo V3
+11,-,-, Not Bicycle
+12,-,-, Not Bicycle
+13,9,14, >=1 frame detected?
+14,-,-, Not Bicycle

@@ -1,0 +1,13 @@
+0,1,5, 1 platform and >=2 legs detected
+1,2,5, Distances within range [0.069, 0.499]
+2,3,4, satisfies similarity constraint
+3,-,-, Table
+4,-,-, Not Table
+5,6,10,1 platform and 1 leg detected
+6,7,10, Distances within range [0.117, 0.421]
+7,8,9, Ratio of area within range [0.066, 4.624]
+8,-,-, Table
+9,-,-, Not Table
+10,11,12, 1 platform Detected
+11,-,-, Not Table
+12,-,-, Not Table
